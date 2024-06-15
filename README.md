@@ -2,7 +2,6 @@ Hi there🖐🏿
 I'm Bruno Aun!
 A chemical engineering exploring programming and technology. 
 
-🧠 I'm currently focusing on Frontend Development, learning Javascript, CSS, HTML and Vue.
 
 <div style="display:'flex', flexDirection:'row'">
   <a href="https://github.com/Brunopaun">
